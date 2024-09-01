@@ -1,0 +1,7 @@
+name: LiteScriptEngine
+version: '1.0.0'
+main: cn.dzdstudio.mc.liteScriptEngine.LiteScriptEngine
+api-version: '1.21'
+load: STARTUP
+authors: [ DZDStudio ]
+description: 允许您使用 JavaScript 开发 Minecraft Paper 插件的脚本引擎
